@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-adb379a69f.tmndpg.cn/sitemap.xml
